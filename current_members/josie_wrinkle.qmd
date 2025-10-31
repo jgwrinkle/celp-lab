@@ -4,4 +4,7 @@ date: "2024-01-01"
 date-format: " "
 categories:
   - Tech
+include-in-header: 
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/josephinewrinkle/home">
 ---
